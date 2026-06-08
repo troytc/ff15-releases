@@ -12,7 +12,6 @@ Application source, issues, and development live in the private main repository.
 |----------|-----------|
 | Windows | `.msi` or `.exe` (NSIS) installer |
 | macOS | `.dmg`, or `.app.zip` (`aarch64` = Apple Silicon, `x64` = Intel) |
-| Linux | `.AppImage` or `.deb` |
 
 ### First launch
 
